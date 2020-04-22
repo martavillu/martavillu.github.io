@@ -1,0 +1,36 @@
+<head>
+    <style>
+    
+
+    .bloque1{
+        background-color: grey;
+        color: white
+        margin: 20px;
+        padding:20px;}
+
+    .bloque2 {
+        background-color: darkblue;
+        color: yellow
+        margin: 40px;
+        padding:10px;
+        allign-content: center;}
+
+</style>
+</head>
+
+CUERPO
+<body>
+
+body { /* estilo para etiqueta `body` */ background-color: lightblue; /* color de fondo: azul claro */
+}
+h1 {
+color: white; text-align: center;
+}
+
+
+p {
+font-family: verdana; font-size: 20px;
+}
+
+
+<div> class:"bloque1"

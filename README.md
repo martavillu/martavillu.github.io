@@ -8,7 +8,7 @@ This is my personal page
 
 /* estableciendo subclases */
 <style type="text/CSS" title="estilos personales">
-.body {background-color: blue
+.body = {background-color: skyblue
 }
 
 /* estableciendo subclases */
@@ -20,7 +20,7 @@ body {
 
 h1{
     .color1: blue;
-    .estilo1:"COMING SOON"}
+    .estilo1: arial}
 
 </style type="text/CSS" title="estilos personales"
 </head>

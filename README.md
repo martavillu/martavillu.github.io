@@ -1,2 +1,34 @@
 # martavillu.github.io
 This is my personal page
+ 
+<html>
+
+   
+   <head>
+   </head>
+   <body>
+     <!-- Inicio código javascript -->
+<script>
+document.write("¡Hola Mundo!"); </script>
+<!-- fin código javascript -->
+ 
+<h2>PRIMER SCRIPT JS</h2>
+<script>
+document.write("¡Hola, caracola!")
+
+</script>
+
+   <h2>Mi primer javascript</h2>
+
+   <button>
+      Aprieta aquí<link https://www.indiosybanqueros.com</body>
+</button>
+   
+  
+</html>
+
+
+
+
+</body>
+</html>

@@ -2,6 +2,7 @@
 This is my personal page
 
 <a href= https://www.indiosybanqueros.com>click here to listen to the latest songs
+
  
 <html>
 <head>
@@ -17,9 +18,12 @@ This is my personal page
 <style type="text/CSS" title="estilos personales"
 body {
 .estilo1 {font-family: sans-serif; text-align: center}
+
 .estilo2 {font-family: href:Impact, 'Arial Narrow Bold'; text-align: right}
 
 
+
+.estilo2 {font-family: href:Impact, Haettenschweiler, 'Arial Narrow Bold'; text-align: right}
 
 h1{
     .color1: blue;

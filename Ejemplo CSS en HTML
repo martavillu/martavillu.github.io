@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+ Inicio código de CSS
+
+
+/* estableciendo subclases */
+<style type="text/CSS" title="estilos personales">
+body {
+
+}
+
+/* estableciendo subclases */
+<style type="text/CSS" title="estilos personales"
+body {
+.estilo1 {font-family: sans-serif; text-align: center}
+.estilo2 {font-family: heisenberg; text-align: right}
+
+h1{
+    color: blue;
+}
+</style>
+
+
+
+</head>

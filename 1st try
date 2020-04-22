@@ -12,6 +12,18 @@ p {color: red;}
 =======
 <p>This is my personal site. Welcome!</p>
 
+<style>
+.cities {background-color: black; color: white; margin: 20px; padding: 20px;}
+</style>
+</head>
+<body>
+<div class="cities">
+<h2>London</h2>
+<p>London is the capital of England.</p>
+</div>
+
+
+</body>
 
 >>>>>>> c9aafa8244f13c91bdab5429227edd1303cdecd0
 

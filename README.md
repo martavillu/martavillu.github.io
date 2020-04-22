@@ -6,12 +6,11 @@ This is my personal page
 
  <!--Inicio código de CSS-->
 
-/* estableciendo subclases */
 <style type="text/CSS" title="estilos personales">
 .body = {background-color: skyblue
 }
 
-/* estableciendo subclases */
+
 <head
 <style type="text/CSS" title="estilos personales"
 body {

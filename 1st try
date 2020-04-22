@@ -3,11 +3,17 @@
 <head>This is my personal site. Welcome!
 <head>
 
+<<<<<<< HEAD
 <style type="text/css" title="estilos personales">
 body {background-color: powderblue;}
 h1 {color: blue;}
 p {color: red;}
 </style>
+=======
+<p>This is my personal site. Welcome!</p>
+
+
+>>>>>>> c9aafa8244f13c91bdab5429227edd1303cdecd0
 
 </head>
 

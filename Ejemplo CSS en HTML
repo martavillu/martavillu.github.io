@@ -7,8 +7,7 @@
 
 /* estableciendo subclases */
 <style type="text/CSS" title="estilos personales">
-body {
-
+body {background-color: blue
 }
 
 /* estableciendo subclases */
@@ -18,10 +17,7 @@ body {
 .estilo2 {font-family: heisenberg; text-align: right}
 
 h1{
-    color: blue;
-}
-</style>
-
-
-
+    .color: blue;
+    .estilo1:"TÍTULO AZUL"}
+</style type="text/CSS" title="estilos personales"
 </head>

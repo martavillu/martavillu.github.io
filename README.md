@@ -2,33 +2,25 @@
 This is my personal page
  
 <html>
+<head>
 
-   
-   <head>
-   </head>
-   <body>
-     <!-- Inicio código javascript -->
-<script>
-document.write("¡Hola Mundo!"); </script>
-<!-- fin código javascript -->
- 
-<h2>PRIMER SCRIPT JS</h2>
-<script>
-document.write("¡Hola, caracola!")
+ <!--Inicio código de CSS-->
 
-</script>
+/* estableciendo subclases */
+<style type="text/CSS" title="estilos personales">
+.body {background-color: blue
+}
 
-   <h2>Mi primer javascript</h2>
+/* estableciendo subclases */
+<head
+<style type="text/CSS" title="estilos personales"
+body {
+.estilo1 {font-family: sans-serif; text-align: center}
+.estilo2 {font-family: href:Impact, Haettenschweiler, 'Arial Narrow Bold'; text-align: right}
 
-   <button>
-      Aprieta aquí<link https://www.indiosybanqueros.com</body>
-</button>
-   
-  
-</html>
+h1{
+    .color1: blue;
+    .estilo1:"COMING SOON"}
 
-
-
-
-</body>
-</html>
+</style type="text/CSS" title="estilos personales"
+</head>

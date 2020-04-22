@@ -2,7 +2,7 @@
 <html>    
 <head>"This is my personal site. Welcome!"
 
-<<<<<<< HEAD
+
 <style type="text/css" title="estilos personales">
 body {background-color: powderblue;}
 h1 {color: blue;}
@@ -11,7 +11,7 @@ p {color: red;}
 =======
 <p>This will soon be hosting a very cool site</p>
 
->>>>>>> c9aafa8244f13c91bdab5429227edd1303cdecd0
+
 
 </head>
 
